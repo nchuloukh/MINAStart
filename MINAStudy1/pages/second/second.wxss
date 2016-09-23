@@ -1,0 +1,10 @@
+
+
+.container {
+    color: red
+}
+.textc {
+    width: 100rpx;
+    height: 50rpx;
+    font: 20rpx;
+}
